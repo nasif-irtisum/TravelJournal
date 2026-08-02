@@ -1,0 +1,21 @@
+
+
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #F55A5A;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  height: 55px;
+  
+}
+
+#img1 {
+  height: 30px;
+  width: 30px;
+  margin-right: 7px;
+}
