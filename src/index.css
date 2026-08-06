@@ -30,6 +30,8 @@ header > h1 {
     height: 168px;
     overflow: hidden;
     border-radius: 5px;
+    flex-shrink: 0;
+    margin-right: 19px;
 }
 
 .mainImg{
@@ -37,4 +39,14 @@ header > h1 {
     width: 100%;
     object-fit: cover;
 }
-/* // Hello */
+.marker {
+    width: 7px;
+    margin-right: 4px;
+}
+
+article {
+    margin: 40px 20px;
+}
+ a {
+    margin-left:7px;
+}
